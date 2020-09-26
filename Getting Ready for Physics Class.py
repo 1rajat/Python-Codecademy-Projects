@@ -1,3 +1,6 @@
+"""You are a physics teacher preparing for the upcoming semester. 
+You want to provide your students with some functions that will help them calculate some fundamental physical properties.""""
+
 train_mass = 22680
 train_acceleration = 10
 train_distance = 100
